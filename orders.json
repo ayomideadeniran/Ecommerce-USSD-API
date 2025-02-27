@@ -1,8 +1,8 @@
 [
     { "id": 1740639484472, "customer": "Ibrahim Olarawaju", "status": "Completed" },
     { "id": 1740639589342, "customer": "David Wllliams", "status": "Completed" },
-    { "id": 1739574468797, "customer": "Ayomide Adeniran", "status": "Shipped" },
-    { "id": 1739574672724, "customer": "Ayomide Adeniran", "status": "Pending" },
+    { "id": 1740639665402, "customer": "Loveth Bature", "status": "Shipped" },
+    { "id": 1740639726428, "customer": "Ayomide Adeniran", "status": "Pending" },
     { "id": 1739575298868, "customer": "Ayomide Adeniran", "status": "Pending" },
     { "id": 1739576121252, "customer": "Ayomide Adeniran", "status": "Pending" },
     { "id": 1739577421768, "customer": "Ayomide Adeniran", "status": "Pending" },
